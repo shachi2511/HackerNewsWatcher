@@ -9,4 +9,4 @@ seen_stories.json
 __pycache__/
 *.pyc
 .venv/
-venv/
+venv/.idea/
