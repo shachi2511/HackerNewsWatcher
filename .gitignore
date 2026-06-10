@@ -1,0 +1,12 @@
+# State files — local only
+seen_jobs.json
+seen_stories.json
+
+# Secrets
+.env
+
+# Python junk
+__pycache__/
+*.pyc
+.venv/
+venv/
